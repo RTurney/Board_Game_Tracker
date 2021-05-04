@@ -42,3 +42,8 @@ As a user,
 So that I can see what games I use most, 
 I would like to see how many times I have played each game. 
 ```
+#### Author
+
+Github: https://github.com/RTurney
+LinkedIn: 
+Email: r.turney93@gmail.com
